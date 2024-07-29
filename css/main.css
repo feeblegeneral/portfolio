@@ -696,6 +696,7 @@ input[type="reset"].button-primary,
 input[type="button"].button-primary {
 	background: #313131;
 	color: #FFFFFF;
+	text-align: center;
 }
 .button.button-primary:hover,
 a.button.button-primary:hover,
@@ -2418,7 +2419,7 @@ header .logo a {
 	text-align: center;
 }
 .contact-info .collapse {
-	padding: 0;
+	width: 100%;
 }
 .contact-info .icon {
 	margin-bottom: 2.1rem;
@@ -2430,6 +2431,7 @@ header .logo a {
 .contact-info h5 {
 	color: #FF0077;
 }
+
 
 /**
  * loader animation - (_layout.scss)
